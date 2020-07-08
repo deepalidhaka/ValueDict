@@ -1,1 +1,1 @@
-# ValueDict
+ValueDict is a lexicon, based on Value system. The 5-dimensions of values listed in this lexicon are Hedonism, Self-Transcendence, Openness to change, Conservation and Self-Enhancement. There are two columns in the ValueDict one for values and other for words associated with these values i.e. word-value pair in each row.
